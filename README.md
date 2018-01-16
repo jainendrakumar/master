@@ -1,5 +1,4 @@
 # master
-Master of Projects
-
-Contains the code for fun activitiy. 
+Project Master
+Single orchestration of build and unit test for mulitple projects.
 
